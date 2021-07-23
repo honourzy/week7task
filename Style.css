@@ -5,7 +5,7 @@
     margin-top: 2%;
     margin-bottom: 1%;
     padding-left: 2%;
-    border: 1px solid rgb(0, 162, 255);
+    border: 1px solid rgb(255, 0, 234);
     border-radius: 10px;
     width: 330px;
     line-height: 10px;
@@ -13,7 +13,7 @@
   
   .mylink, .uname{
   text-decoration: none;
-  color: rgb(0, 162, 255);
+  color: rgb(255, 0, 0);
   }
   .image{
     width: 150px;
